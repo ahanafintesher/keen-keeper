@@ -141,6 +141,55 @@ public/
 
 ---
 
+
+## 🛠️ Technologies Used & Why
+
+| Technology | Why I Used It |
+|---|---|
+| Next.js 16 | For building a fast, scalable, and structured React application. |
+| React 19 | For creating reusable and interactive UI components. |
+| JavaScript (ES6+) | For implementing application logic and functionality. |
+| Tailwind CSS 4 | For responsive and maintainable styling. |
+| DaisyUI 5 | For ready-made UI components and faster development. |
+| Recharts | For displaying contact statistics and analytics through charts. |
+| React Icons | For consistent and visually appealing icons. |
+| React Toastify | For displaying user-friendly success and error notifications. |
+| ESLint | For maintaining clean, consistent, and error-free code. |
+
+## ⚡ Challenges Faced During Development
+
+While developing KeenKeeper, I faced several challenges:
+
+- Designing a clean and user-friendly dashboard interface.
+- Managing contact information and different follow-up statuses.
+- Implementing dynamic filtering and status-based data presentation.
+- Displaying meaningful contact statistics through interactive charts.
+- Maintaining a consistent and responsive layout across different screen sizes.
+- Organizing reusable components and maintaining a clean project structure.
+
+## 🧩 Challenges Solved
+
+I implemented several solutions to overcome the development challenges:
+
+- Created reusable components to reduce code duplication and improve maintainability.
+- Implemented contact status tracking, including **Overdue**, **Almost Due**, and **On Track**.
+- Used Recharts to visualize contact-related statistics and analytics.
+- Integrated responsive layouts to provide a consistent experience across desktop, tablet, and mobile devices.
+- Used Tailwind CSS and DaisyUI to maintain consistent styling and speed up UI development.
+- Implemented toast notifications to provide clear feedback for user interactions.
+
+## 📚 Key Learnings
+
+Through this project, I improved my understanding of:
+
+- Building dashboard applications with Next.js and React.
+- Creating reusable and maintainable UI components.
+- Visualizing application data using Recharts.
+- Managing dynamic data and contact follow-up statuses.
+- Developing responsive interfaces with Tailwind CSS and DaisyUI.
+- Structuring a frontend project for better scalability and maintainability.
+
+
 ## 👤 Author
 
 Made with ❤️ by Ahanaf Intesher.
