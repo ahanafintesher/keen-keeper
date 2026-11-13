@@ -29,6 +29,30 @@ KeenKeeper is a friendship relationship manager that helps you stay in touch wit
 
 ---
 
+
+## 📦 Dependencies
+
+| Package | Version | Purpose |
+|---|---|---|
+| Next.js | 16.2.3 | React Framework |
+| React | 19.2.4 | UI Development |
+| React DOM | 19.2.4 | DOM Rendering |
+| React Icons | ^5.6.0 | Icon Library |
+| React Toastify | ^11.0.5 | Toast Notifications |
+| Recharts | ^3.8.1 | Data Visualization |
+
+## 🛠️ Dev Dependencies
+
+| Package | Version | Purpose |
+|---|---|---|
+| Tailwind CSS | ^4 | Utility-First Styling |
+| DaisyUI | ^5.5.19 | Tailwind CSS Component Library |
+| @tailwindcss/postcss | ^4 | Tailwind CSS PostCSS Integration |
+| ESLint | ^9 | Code Linting |
+| eslint-config-next | 16.2.3 | Next.js ESLint Configuration |
+
+
+
 ## ✨ 3 Key Features
 
 ### 1. 📋 Friend Status Tracking
